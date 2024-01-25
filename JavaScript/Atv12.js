@@ -1,0 +1,1 @@
+//12. Crie uma função que receba um número e retorne true se ele for primo e false se não for.

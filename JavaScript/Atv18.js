@@ -1,0 +1,1 @@
+//18. Desenvolva uma função que receba uma frase e retorne a quantidade de vogais que ela possui.

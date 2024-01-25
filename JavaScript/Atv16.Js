@@ -1,0 +1,1 @@
+//16.Crie uma função que receba um array de números e retorne a soma apenas dos números positivos.
